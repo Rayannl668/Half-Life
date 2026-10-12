@@ -12,10 +12,9 @@
 
 | Part | What it's for | Qty | Unit | Total | Vendor |
 | --- | --- | --- | --- | --- | --- |
-| [SMD pushbuttons](https://eu.robotshop.com/nl/products/sparkfun-mini-drukknop-schakelaar-smd) | Buttons | 2 | $1.35 | $2.70 | [RobotShop.eu](https://eu.robotshop.com/nl/products/sparkfun-mini-drukknop-schakelaar-smd) |
 | [XIAO ESP32C3](https://eu.robotshop.com/nl/products/seeedstudio-xiao-esp32c3-kleine-mcu-met-wi-fi-ble?_su_rec=S7hjIszPgY5DeW_xMjuBMs3Fu9e3LYoVFM5a_cJ_3HrIs2EGxccFBfgz7NkpTx6Hd59cJHw73PyaddcRab2TrKcNSlvkdv24TNS-HQQs-TsZQm9XZlZDHH9sOuqccEe_9S0QPa2G2qnu1GXfpVY5V92BVgkhn6QlYjE8DLAoBzooGm5I7DizYc2W_6aS8oP_kdvLCbo7tpa_RbcqGaasNyK0FSOSM2gBFDvPii2-LfKLC8KwqPLHEw2CsqE&_su_rec_id=c9ad3ec9-5e26-4fd9-8884-d655140be5d4-1791813452&qd=ab998be63fef679bff8358fbe49e5e0d) | Wifi and the main loop | 1 | $7.32 | $7.32 | [RobotShop.eu](https://eu.robotshop.com/nl/products/seeedstudio-xiao-esp32c3-kleine-mcu-met-wi-fi-ble?_su_rec=S7hjIszPgY5DeW_xMjuBMs3Fu9e3LYoVFM5a_cJ_3HrIs2EGxccFBfgz7NkpTx6Hd59cJHw73PyaddcRab2TrKcNSlvkdv24TNS-HQQs-TsZQm9XZlZDHH9sOuqccEe_9S0QPa2G2qnu1GXfpVY5V92BVgkhn6QlYjE8DLAoBzooGm5I7DizYc2W_6aS8oP_kdvLCbo7tpa_RbcqGaasNyK0FSOSM2gBFDvPii2-LfKLC8KwqPLHEw2CsqE&_su_rec_id=c9ad3ec9-5e26-4fd9-8884-d655140be5d4-1791813452&qd=ab998be63fef679bff8358fbe49e5e0d) |
-| **Parts subtotal** | — | — | — | **$10.02** | — |
+| **Parts subtotal** | — | — | — | **$7.32** | — |
 | **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$10.02** | — |
+| **Total** | — | — | — | **$7.32** | — |
 
-$19.98 left of the tier's funding.
+$22.68 left of the tier's funding.
